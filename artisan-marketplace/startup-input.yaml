@@ -1,0 +1,10 @@
+startup_input:
+  name: "ArtisanMarketplace"
+  description: "Curated e-commerce platform for handmade crafts and artisan products with storytelling and direct creator support"
+  industry: "e_commerce_handmade"
+  business_model: "e_commerce_marketplace"
+  target_users: ["artisan_creators", "conscious_consumers", "gift_buyers"]
+  key_value_props: ["authentic_handmade_products", "creator_storytelling", "direct_creator_support", "sustainable_shopping"]
+  tech_preferences: ["web_app", "mobile_commerce", "payment_processing", "inventory_management"]
+  brand_personality: "authentic_warm"
+  scale_target: "mvp_to_growth"

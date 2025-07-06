@@ -1,0 +1,10 @@
+startup_input:
+  name: "ProjectSyncSaaS"
+  description: "Real-time project management and team collaboration platform with AI-powered task optimization"
+  industry: "productivity_software"
+  business_model: "saas_subscription"
+  target_users: ["project_managers", "development_teams", "remote_workers"]
+  key_value_props: ["real_time_collaboration", "ai_task_optimization", "automated_reporting", "integration_ecosystem"]
+  tech_preferences: ["web_app", "real_time_sync", "api_first", "mobile_app"]
+  brand_personality: "professional_efficient"
+  scale_target: "growth_to_enterprise"

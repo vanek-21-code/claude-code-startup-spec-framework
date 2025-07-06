@@ -1,0 +1,10 @@
+startup_input:
+  name: "FitnessCoachAI"
+  description: "AI-powered fitness coaching marketplace connecting certified trainers with fitness enthusiasts"
+  industry: "health_fitness"
+  business_model: "marketplace_with_ai"
+  target_users: ["fitness_coaches", "fitness_enthusiasts"]
+  key_value_props: ["personalized_ai_coaching", "expert_human_oversight", "progress_tracking"]
+  tech_preferences: ["web_app", "mobile_responsive", "ai_integration"]
+  brand_personality: "motivational_supportive"
+  scale_target: "mvp_to_growth"
